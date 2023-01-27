@@ -1,0 +1,2 @@
+This repository contains code samples written while reading [[https://doc.rust-lang.org/stable/book/][The Rust Programming
+Language (The Book)]]. Hence, nothing special but the basic `Rust` code examples.
